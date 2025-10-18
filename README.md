@@ -40,6 +40,5 @@ It allows users to **securely encrypt and decrypt entire folders**, generate dig
    venv\Scripts\activate          # For Windows
    
 4. If you don’t have a requirements.txt, create one using:
-    
    pip install cryptography argon2-cffi
    pip freeze > requirements.txt
