@@ -42,3 +42,12 @@ It allows users to **securely encrypt and decrypt entire folders**, generate dig
 4. If you don’t have a requirements.txt, create one using:
    - pip install cryptography argon2-cffi
    - pip freeze > requirements.txt
+
+# 📄 Published Work
+
+This project has been published in **IJRASET**:
+
+> **CipherGuard: A Folder Encryption and Decryption Tool**  
+> Author: Barath VS, S Trivikram, S. R. Shiravanthan, S Vaishnavii 
+> Published in: International Journal for Research in Applied Science & Engineering Technology (IJRASET)  
+> [Link to Paper](https://www.ijraset.com/research-paper/secured-folder-encryption-and-decryption)  <!-- Replace with your actual paper link -->
