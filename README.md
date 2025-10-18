@@ -31,7 +31,7 @@ It allows users to **securely encrypt and decrypt entire folders**, generate dig
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/Cipher-Guard.git
+   git clone https://github.com/srshiravanthan/cipher_guard.git
    cd Cipher-Guard
 
 2. Create and activate a virtual environment (recommended):
