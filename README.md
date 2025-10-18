@@ -43,7 +43,7 @@ It allows users to **securely encrypt and decrypt entire folders**, generate dig
    - pip install cryptography argon2-cffi
    - pip freeze > requirements.txt
 
-# 📄 Published Work
+## 📄 Published Work
 
 This project has been published in **IJRASET**:
 
