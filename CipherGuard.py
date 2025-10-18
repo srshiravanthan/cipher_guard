@@ -1,3 +1,11 @@
+"""
+CipherGuard - Folder Encryption/Decryption Tool
+Copyright (c) 2025 SR Shiravanthan
+Licensed under the MIT License
+"""
+
+
+
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import webbrowser
